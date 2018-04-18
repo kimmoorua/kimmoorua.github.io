@@ -1,4 +1,6 @@
 ## Welcome to the kimmoorua’s homepage!
+title: I am biiger than Gordonhsu cuz he is 3 cm man.
+description: I am the biggest!!!
 
 You can use the [editor on GitHub](https://github.com/kimmoorua/kimmoorua.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files. THAT IS LIT waalalalalalalalalalalalal
 gagagagakgsdjlgsdajkgljslgjaslkdgasjlkdgjasdlkgasidgjaksldgiasjdkglasdijklwegjsakdgnkdngjal;skdnglksn;g
